@@ -1,0 +1,6 @@
+package com.laya.course.entities;
+
+public class OrderItem {
+
+	private Order
+}

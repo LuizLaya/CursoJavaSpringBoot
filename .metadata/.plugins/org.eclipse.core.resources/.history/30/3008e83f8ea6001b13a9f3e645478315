@@ -1,0 +1,5 @@
+package com.laya.course.services.exceptions;
+
+public class DatabaseException {
+
+}
